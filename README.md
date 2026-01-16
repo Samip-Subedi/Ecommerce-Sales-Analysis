@@ -91,3 +91,25 @@ Product Category
 Quarter
 
 Dark-themed executive dashboard design
+
+📂 Project Structure
+Amazon-Sales-Analysis/
+│
+├── images/
+│   └── dashboard_preview.png
+├── dashboard/
+│   └── Amazon_Sales_Analysis.pbix
+├── dataset/
+│   └── amazon_sales_data.csv
+└── documentation/
+    └── Amazon_Sales_Analysis_Report.pdf
+
+📚 Learning Outcomes
+
+Hands-on experience with real-world business KPIs
+
+Strong understanding of DAX measures
+
+Data modeling and relationship handling
+
+Dashboard design and data storytelling best practices
