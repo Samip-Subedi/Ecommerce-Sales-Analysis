@@ -14,3 +14,15 @@ Identify top-performing products and categories
 Track monthly and weekly sales trends
 
 Understand customer engagement through product review
+
+🧩 Business Problem
+
+E-commerce platforms generate massive amounts of sales data. Without proper analysis and visualization, it becomes challenging to:
+
+Monitor sales growth over time
+
+Identify high-revenue products and categories
+
+Support data-driven business decisions
+
+This dashboard transforms raw transactional data into actionable insights using Power BI.
