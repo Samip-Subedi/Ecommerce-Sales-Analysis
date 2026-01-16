@@ -102,3 +102,4 @@ Strong understanding of DAX measures
 Data modeling and relationship handling
 
 Dashboard design and data storytelling best practices
+<img width="1123" height="645" alt="dashboard_preview" src="https://github.com/user-attachments/assets/1696f3e5-2d15-4a1b-a37c-ab530dfa2a3f" />
