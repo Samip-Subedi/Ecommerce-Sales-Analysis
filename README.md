@@ -50,3 +50,44 @@ Number of Reviews
 Price
 
 ⚠️ Note: This dataset is used strictly for learning and demonstration purposes.
+
+🛠 Tools & Technologies
+
+Power BI
+
+Power Query
+
+DAX (Data Analysis Expressions)
+
+Data Modeling
+
+Microsoft Excel (Preprocessing)
+
+📌 Key KPIs
+
+YTD Sales
+
+QTD Sales
+
+YTD Products Sold
+
+YTD Reviews
+
+
+📈 Dashboard Features
+
+Monthly and weekly sales trend analysis
+
+Top 5 products by YTD Sales
+
+Top 5 products by YTD Reviews
+
+Category-wise sales performance
+
+Interactive slicers:
+
+Product Category
+
+Quarter
+
+Dark-themed executive dashboard design
