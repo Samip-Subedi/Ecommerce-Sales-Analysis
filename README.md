@@ -26,3 +26,27 @@ Identify high-revenue products and categories
 Support data-driven business decisions
 
 This dashboard transforms raw transactional data into actionable insights using Power BI.
+
+🗂 Dataset Information
+
+Source: Public dataset 
+
+Records: 89000 rows
+
+Data Type: Structured sales transaction data
+
+Key Columns:
+
+Order Date
+
+Product Category
+
+Shipment
+
+Product Description
+
+Number of Reviews
+
+Price
+
+⚠️ Note: This dataset is used strictly for learning and demonstration purposes.
