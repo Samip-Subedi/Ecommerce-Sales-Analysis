@@ -101,8 +101,7 @@ Amazon-Sales-Analysis/
 │   └── Amazon_Sales_Analysis.pbix
 ├── dataset/
 │   └── amazon_sales_data.csv
-└── documentation/
-    └── Amazon_Sales_Analysis_Report.pdf
+
 
 📚 Learning Outcomes
 
