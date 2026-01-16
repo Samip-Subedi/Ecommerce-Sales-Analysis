@@ -92,16 +92,6 @@ Quarter
 
 Dark-themed executive dashboard design
 
-📂 Project Structure
-Amazon-Sales-Analysis/
-│
-├── images/
-│   └── dashboard_preview.png
-├── dashboard/
-│   └── Amazon_Sales_Analysis.pbix
-├── dataset/
-│   └── amazon_sales_data.csv
-
 
 📚 Learning Outcomes
 
